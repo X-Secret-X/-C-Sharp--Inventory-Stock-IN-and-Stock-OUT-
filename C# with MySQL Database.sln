@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "INSERT, UPDATE and DELETE with MySQL Database", "INSERT, UPDATE and DELETE with MySQL Database.csproj", "{B20098E3-A00D-4DB1-97DD-BA1BF4FFE242}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B20098E3-A00D-4DB1-97DD-BA1BF4FFE242}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B20098E3-A00D-4DB1-97DD-BA1BF4FFE242}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B20098E3-A00D-4DB1-97DD-BA1BF4FFE242}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B20098E3-A00D-4DB1-97DD-BA1BF4FFE242}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56D5ACBE-392B-428E-8100-0BF3BC5C8F56}
+	EndGlobalSection
+EndGlobal
