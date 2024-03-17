@@ -1,2 +1,3 @@
 # C-Inventory-Stock-IN-and-Stock-OUT-
-![MotherForm](https://github.com/X-Secret-X/-C-Sharp--Inventory-Stock-IN-and-Stock-OUT-/assets/138319100/888798a5-15c1-497e-983a-53be60b2c0e1)
+
+![dsds](https://github.com/X-Secret-X/-C-Sharp--Inventory-Stock-IN-and-Stock-OUT-/assets/138319100/b3b19548-f616-4883-86a3-594140f29df0)
