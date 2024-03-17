@@ -1,2 +1,2 @@
 # C-Inventory-Stock-IN-and-Stock-OUT-
-Sample Project of my C# with MySql Database can stor data images and other information about the product.
+![MotherForm](https://github.com/X-Secret-X/-C-Sharp--Inventory-Stock-IN-and-Stock-OUT-/assets/138319100/888798a5-15c1-497e-983a-53be60b2c0e1)
